@@ -1,7 +1,5 @@
 # 42sh
 
-Maze generator and solver
-
 Create the binary with make or make re
 
 Use the binary like this to throw the console mode: ./42sh
